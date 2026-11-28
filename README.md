@@ -6,7 +6,10 @@
 
 ## Example
 
-<!-- A real command and its REAL pasted output. Run it first. -->
+```bash
+docker-compose up -d
+cachebolt replay
+```
 
 ## Install
 
